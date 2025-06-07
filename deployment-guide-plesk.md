@@ -32,7 +32,7 @@ LOG_LEVEL=error
 DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
-DB_DATABASE=your_database_name
+DB_DATABASE=msk_computers_api
 DB_USERNAME=your_db_username
 DB_PASSWORD=your_db_password
 
