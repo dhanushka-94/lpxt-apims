@@ -1,6 +1,6 @@
 APP_NAME="MSK Computers API"
 APP_ENV=local
-APP_KEY=base64:msJTcND4uSSxRYrasSSauR6Ppamuh9SP4Se0x/LyhcM=
+APP_KEY=
 APP_DEBUG=true
 APP_URL=http://localhost:8000
 
